@@ -8,6 +8,7 @@ But we will have cool repositories in the future!🔥
 
 ## 🐧 What i use?
 I use arch btw
+with Gnome desktop
 
 ## ⚒️ Languages and Tools:
 
