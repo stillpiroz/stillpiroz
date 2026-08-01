@@ -11,4 +11,4 @@ with GNOME desktop
 
 ## ⚒️ Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=linux,python,git,vim,neovim&perline=13)
+![My Skills](https://skillicons.dev/icons?i=linux,python,git,github,vim,neovim&perline=13)
